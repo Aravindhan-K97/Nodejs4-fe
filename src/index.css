@@ -1,6 +1,6 @@
 /* Full size background Image */
 body{
   height: 100%;
-  background-image: url('public/Images/bg_img_1.jpg');
+  background-image: url('images/bg_img_1.jpg');
   background-size: cover;
 }
